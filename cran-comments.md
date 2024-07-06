@@ -4,7 +4,7 @@ This is a minor update, removing several unused and non-runtime dependencies fro
 
 # epigraphdb 0.2.3
 
-(2022-01-14 second submissioin)
+(2022-01-14 second submission)
 Fixed the issue of the package size too large.
 
 (2022-01-14 first submissioin)
