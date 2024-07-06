@@ -32,7 +32,6 @@ Suggests:
     spelling,
     devtools,
     usethis,
-    pkgdown,
     styler,
     lintr,
     covr,
@@ -53,3 +52,4 @@ Imports:
     jsonlite
 VignetteBuilder: knitr
 Language: en-GB
+Config/Needs/website: pkgdown
