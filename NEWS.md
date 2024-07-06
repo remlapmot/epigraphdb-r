@@ -1,3 +1,5 @@
+# epigraphdb 0.2.4
+
 # epigraphdb 0.2.3 (2022-01-14)
 
 - Error handling logics have been overhauled.
