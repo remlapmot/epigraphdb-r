@@ -34,7 +34,6 @@ Suggests:
     usethis,
     styler,
     lintr,
-    covr,
     igraph,
     gtools,
     stringr,
@@ -52,4 +51,5 @@ Imports:
     jsonlite
 VignetteBuilder: knitr
 Language: en-GB
+Config/Needs/coverage: covr
 Config/Needs/website: pkgdown
