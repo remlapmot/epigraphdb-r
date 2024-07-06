@@ -30,7 +30,6 @@ Suggests:
     rmarkdown,
     spelling,
     igraph,
-    gtools,
     stringr,
     dplyr,
     ggplot2
